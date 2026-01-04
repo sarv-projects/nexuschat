@@ -4,8 +4,8 @@
 
 # NexusChat 💬
 
-A WebSocket-based real-time chat app built with **Python (Flask, Flask-SocketIO, Gunicorn, Eventlet)** and a lightweight **HTML/CSS/JS** frontend.
-Supports multiple chat rooms, instant message delivery (<200ms), and a simple dark mode toggle.
+A WebSocket-based real-time chat app built with **Python (Flask, SocketIO, Gunicorn)** and a lightweight **HTML/CSS/JS** frontend.
+Supports multiple chat rooms, instant message delivery (<100ms), and a simple dark mode toggle.
 
 👉 https://chat-app-jq0d.onrender.com
 ---
