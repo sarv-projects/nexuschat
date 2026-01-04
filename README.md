@@ -14,9 +14,9 @@ Supports multiple chat rooms, instant message delivery (<200ms), and a simple da
 
 * Real-time communication with **Flask-SocketIO + WebSockets**
 * Join/leave multiple rooms dynamically
-* Messages broadcast instantly (<200ms latency)
+* Messages broadcast instantly (<100ms latency)
 * Persistent 7-day chat history (SQLite backend)
-* Supports **500+ concurrent sessions**
+* Supports **50+ concurrent sessions**
 * Responsive UI with **Bootstrap**
 * **Dark mode toggle** for better user experience
 
